@@ -2,4 +2,6 @@ Hola mi nombre es Ferney Velasco Garzón,
 
 tengo 32 años y vivo actualmente en Medellín,
 
-Estoy empezando a programar y manejar GitHub
+Estoy empezando a programar y manejar GitHub,
+
+Actualmente he avanzado pero considero que aún me falta mucho.
